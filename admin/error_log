@@ -1,0 +1,4 @@
+[13-Nov-2020 07:22:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/marketi1/iconichomehardware.com/admin/includes/session.php on line 3
+[13-Nov-2020 07:22:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marketi1/iconichomehardware.com/admin/country_add.php:1) in /home1/marketi1/iconichomehardware.com/admin/includes/session.php on line 6
+[13-Nov-2020 07:22:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/marketi1/iconichomehardware.com/admin/includes/session.php on line 3
+[13-Nov-2020 07:22:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marketi1/iconichomehardware.com/admin/country_add.php:1) in /home1/marketi1/iconichomehardware.com/admin/includes/session.php on line 6
